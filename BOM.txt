@@ -1,0 +1,10 @@
+Part		Value		Package	Notes
+C3		100nF		C0805	
+C4		100nF		C0805	
+J1		MJ-3523-SMT		
+R1		2.2KOhm		M0805	
+R2		1KOhm		M0805	
+R3		1.5KOhm		M0805	
+R4		1KOhm		M0805	
+R5		1KOhm		M0805	Optional - Required if using regulated 5V power or 7 to 12v battery.  Not required for 1 Cell lithium-Ion battery. (Solder bridge or use 0Ohm)
+		
