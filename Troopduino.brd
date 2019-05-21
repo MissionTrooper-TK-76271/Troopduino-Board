@@ -163,7 +163,7 @@
 <text x="22.22375" y="38.3125" size="0.7" layer="26" rot="MR0">VCC</text>
 <text x="77.7125" y="48.59625" size="3" layer="26" rot="MR0">Troopduino</text>
 <text x="57.785" y="40.64" size="1.778" layer="25" rot="R90">Arduino Nano</text>
-<text x="77.60125" y="45.065" size="1.778" layer="26" rot="MR0">V1.0</text>
+<text x="77.60125" y="45.065" size="1.778" layer="26" rot="MR0">V1.1</text>
 <hole x="79.4575" y="35.7" drill="2.75"/>
 <hole x="16.93875" y="35.7" drill="2.75"/>
 <text x="37.6" y="42.0125" size="0.7" layer="26" rot="MR0">SDA</text>
