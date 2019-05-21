@@ -1,6 +1,6 @@
 Part		Value		Package	Notes
-C3		100nF		C0805	
-C4		100nF		C0805	
+C1		100nF		C0805	
+C2		100nF		C0805	
 J1		MJ-3523-SMT		
 R1		2.2KOhm		M0805	
 R2		1KOhm		M0805	
