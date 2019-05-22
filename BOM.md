@@ -32,24 +32,6 @@ https://www.mouser.ca/ProductDetail/603-CC805ZRY5V9BB104
 </td>
 </tr>
 
-
-
-<tr>
-<td>J1
-</td>
-<td>
-MJ&#8209;3523&#8209;SMT
-</td>
-<td>
-
-</td>
-<td>
-</td>
-<td>
-https://www.mouser.ca/ProductDetail/490-MJ-3523-SMT-TR
-</td>
-</tr>
-
 <tr>
 <td>R1
 </td>
@@ -114,6 +96,21 @@ M0805
 1K Ohm https://www.mouser.ca/ProductDetail/652-CR0805JW-152ELF </br>
 or</br>
 0 Ohm https://www.mouser.ca/ProductDetail/652-CR0805-J-000ELF
+</td>
+</tr>
+
+<tr>
+<td>J1
+</td>
+<td>
+MJ&#8209;3523&#8209;SMT
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+https://www.mouser.ca/ProductDetail/490-MJ-3523-SMT-TR
 </td>
 </tr>
 
