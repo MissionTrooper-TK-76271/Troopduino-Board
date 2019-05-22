@@ -3,17 +3,21 @@ Troopduino Voice Changer and Effects Board
 
 https://github.com/BipeFlyer/Troopduino
 
-This project uses an Arduino nano to create clicks and static when talking.
+This project uses an Arduino nano to create clicks and static when talking.  
 Features:
-
-Voice changer
-Bandpass Filter
-Bitcrusher
-Reverb
-PTT (Push to Talk) Mode
-Voice Activation Mode
-Sound Effects
-Looping Background Effects
+<ul>
+  <li>Voice changer
+  <ul>
+  <li>Bandpass Filter</li>
+  <li>Bitcrusher</li>
+  <li>Reverb</li>
+</ul>
+  </li>
+  <li>PTT (Push to Talk) Mode</li>
+  <li>Voice Activation Mode</li>
+  <li>Sound Effects</li>
+  <li>Looping Background Effects</li>
+</ul>
 
 To Complete this project you will need:
 
