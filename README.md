@@ -20,12 +20,11 @@ Features:
 </ul>
 
 To Complete this project you will need:
-
-Arduino Nano
-
-DFPlayer Mini
-
-Adafruid Electret Microphone Amplifier - MAX4466 with Adjustable Gain https://www.adafruit.com/product/1063
+<ul>
+  <li>Arduino Nano</li>
+  <li>DFPlayer Mini</li>
+  <li>Adafruid Electret Microphone Amplifier - MAX4466 with Adjustable Gain https://www.adafruit.com/product/1063</li>
+</ul>
 
 See the BOM for other components available at Digikey, Mouser etc.
 
