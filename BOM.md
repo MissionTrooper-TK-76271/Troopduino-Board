@@ -53,7 +53,7 @@
 
   <tr>
     <td>
-      R2, R4
+      R2, R4, R5
     </td>
     <td>
       1K Ohm
@@ -85,25 +85,6 @@
     </td>
   </tr>
 
-  <tr>
-    <td>
-      R5
-    </td>
-    <td>
-      1K Ohm </br>or </br>0 Ohm
-    </td>
-    <td>
-      M0805
-    </td>
-    <td>
-      1K Ohm Required if using regulated 5V power or 7 to 12v battery. 0 Ohm or solder bridge for 1 Cell lithium-Ion battery or 3 cell NiHh.
-    </td>
-    <td>
-      1K Ohm https://www.mouser.ca/ProductDetail/652-CR0805JW-152ELF </br>
-      or</br>
-      0 Ohm https://www.mouser.ca/ProductDetail/652-CR0805-J-000ELF
-    </td>
-  </tr>
 
   <tr>
     <td>
